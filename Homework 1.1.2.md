@@ -52,7 +52,7 @@
  - Visa Electron: 4844367907424290
  - Visa Electron: 4913115893057749
  - Visa Electron: 4844987290894302
- - 
+ 
  Ожидаемый результат: Result is OK
  
  ![image](https://user-images.githubusercontent.com/77262709/109943548-0b2fb200-7d21-11eb-8dee-30ef97680d24.png)
@@ -62,7 +62,7 @@
  - ВИЗА: 4532928047652816594
  - MasterCard: 54909223454135157
  - Visa Electron: 4800981110894459
- - 
+ 
  Ожидаемый результат: Result is FAIL
  
  ![image](https://user-images.githubusercontent.com/77262709/109943389-dfacc780-7d20-11eb-970c-2fcc15ca4e66.png)
