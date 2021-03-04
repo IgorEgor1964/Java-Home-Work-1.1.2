@@ -44,19 +44,24 @@
  ![image](https://user-images.githubusercontent.com/77262709/109939897-387a6100-7d1d-11eb-9280-62196e413e3f.png)
 
  ### Номера валидных банковских карт: 
- - 5351719427810741
- - 4485827184862433
- - 4110235313563299
- 
+ - ВИЗА: 4485827184862433
+ - ВИЗА: 4110235313563299
+ - MasterCard: 5573898281996598
+ - MasterCard: 5305817938329339
+ - MasterCard: 5297921904135157
+ - Visa Electron: 4844367907424290
+ - Visa Electron: 4913115893057749
+ - Visa Electron: 4844987290894302
  Ожидаемый результат: Result is OK
- 
+ ![image](https://user-images.githubusercontent.com/77262709/109943548-0b2fb200-7d21-11eb-8dee-30ef97680d24.png)
+
+
  ### Номера невалидных банковских карт: 
- - 
- - 4532928047652816594
- 
+ - ВИЗА: 4532928047652816594
+ - MasterCard: 54909223454135157
+ - Visa Electron: 4800981110894459
  Ожидаемый результат: Result is FAIL
- 
- ![image](https://user-images.githubusercontent.com/77262709/109940932-4f6d8300-7d1e-11eb-8abb-d7b750e41b9a.png)
+ ![image](https://user-images.githubusercontent.com/77262709/109943389-dfacc780-7d20-11eb-970c-2fcc15ca4e66.png)
 
  Тестирование производилось в следующем окружении:
 
