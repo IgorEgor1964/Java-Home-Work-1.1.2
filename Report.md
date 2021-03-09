@@ -18,14 +18,14 @@
 
 **Номера валидных банковских карт:** [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
-- ВИЗА: 4485827184862433               Result is OK
-- ВИЗА: 4110235313563299               Result is OK
-- MasterCard: 5573898281996598         Result is OK
-- MasterCard: 5305817938329339         Result is OK
-- MasterCard: 5297921904135157         Result is OK
-- Visa Electron: 4844367907424290      Result is OK
-- Visa Electron: 4913115893057749      Result is OK
-- Visa Electron: 4844987290894302      Result is OK
+- ВИЗА: 4485827184862433               - Result is OK
+- ВИЗА: 4110235313563299               - Result is OK
+- MasterCard: 5573898281996598         - Result is OK
+- MasterCard: 5305817938329339         - Result is OK
+- MasterCard: 5297921904135157         - Result is OK
+- Visa Electron: 4844367907424290      - Result is OK
+- Visa Electron: 4913115893057749      - Result is OK
+- Visa Electron: 4844987290894302      - Result is OK
 
 - MIR Credit Cards: [MIR Credit Cards](https://creditcardgenerator.in/card-generator/mir)
 * 2202419235739238    Result is FAIL
